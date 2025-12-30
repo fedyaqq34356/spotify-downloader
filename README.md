@@ -20,7 +20,7 @@ spotdl
 ## Installation
 
 ```
-git clone https://github.com/yourusername/spotify-downloader.git
+git clone https://github.com/fedyaqq34356/spotify-downloader.git
 cd spotify-downloader
 pip install spotdl
 ```
